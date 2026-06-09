@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maria%20Esonsiya%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Microservices%20%7C%20FinTech%20%26%20eKYC%20Platforms&descAlignY=62&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Maria%20Esonsiya%20D&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Java%20Full%20Stack%20Developer%20%7C%20Microservices%20%7C%20FinTech%20%26%20eKYC%20Platforms&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Maria+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Secure+%26+Scalable+FinTech+Apps)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi%2C+I'm+Maria+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Secure+%26+Scalable+FinTech+Apps" alt="Typing SVG"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MariaDevCreator&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/MariaDevCreator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariaesonsiya--d-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaesonsiya-d-a652753b0/)
@@ -47,6 +47,8 @@ public class MariaEsonsiya {
     }
 }
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -100,12 +102,8 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-<a href="https://github.com/MariaDevCreator">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaDevCreator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/MariaDevCreator">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDevCreator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaDevCreator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDevCreator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 
 </div>
 
@@ -115,7 +113,7 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MariaDevCreator&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=MariaDevCreator&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 
 </div>
 
@@ -125,7 +123,7 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-[![Maria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaDevCreator&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/MariaDevCreator)
+![Maria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaDevCreator&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
@@ -135,7 +133,7 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MariaDevCreator&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/MariaDevCreator)
+![trophy](https://github-profile-trophy.vercel.app/?username=MariaDevCreator&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 </div>
 
@@ -169,7 +167,7 @@ public class MariaEsonsiya {
 - 🔧 Built scalable backend services using Java, Spring Boot, and Hibernate supporting a **3× increase** in concurrent user sessions
 - ⚡ Delivered REST APIs processing **1,000+ API calls per minute**, with frontend integration cutting page load speed by **25%**
 - 🗄️ Structured database schemas and refined SQL queries, reducing average query execution time by **40%**
-- 🚀 Automated CI/CD pipelines with Jenkins & Maven, cutting manual deployment effort by **80%** and deployment errors by **70%**
+- 🚀 Automated CI/CD pipelines with Jenkins and Maven, cutting manual deployment effort by **80%** and deployment errors by **70%**
 - 🤝 Collaborated in Agile sprints with UI/UX, QA, and product teams, consistently delivering features **15% ahead of schedule**
 
 </details>
@@ -182,7 +180,7 @@ public class MariaEsonsiya {
 
 | 🔗 Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
-| **🏋️ AI-Powered Fitness Microservices Platform** *(March 2026 – Present)* | Spring Boot · ReactJS · Spring Cloud (Eureka, Gateway) · Keycloak · RabbitMQ · PostgreSQL · MongoDB · Google Gemini API | Scalable microservices platform with AI-based workout recommendations, real-time fitness goal tracking, and secure OAuth via Keycloak. Leverages Gemini API for personalized coaching insights. |
+| **🏋️ AI-Powered Fitness Microservices Platform** *(March 2026 – Present)* | Spring Boot · ReactJS · Spring Cloud · Keycloak · RabbitMQ · PostgreSQL · MongoDB · Google Gemini API | Scalable microservices platform with AI-based workout recommendations, real-time fitness goal tracking, and secure OAuth via Keycloak. Leverages Gemini API for personalized coaching insights. |
 
 </div>
 
@@ -236,6 +234,6 @@ public class MariaEsonsiya {
 
 *✨ "Build secure. Build scalable. Build for impact." ✨*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 </div>
