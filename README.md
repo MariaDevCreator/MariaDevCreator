@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Maria%20Esonsiya%20D&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Java%20Full%20Stack%20Developer%20%7C%20Microservices%20%7C%20FinTech%20%26%20eKYC%20Platforms&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi%2C+I'm+Maria+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Secure+%26+Scalable+FinTech+Apps" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi%2C+I%27m+Maria+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Secure+%26+Scalable+FinTech+Apps" alt="Typing SVG"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MariaDevCreator&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/MariaDevCreator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mariaesonsiya--d-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaesonsiya-d-a652753b0/)
@@ -21,7 +21,7 @@
 public class MariaEsonsiya {
 
     private final String name       = "Maria Esonsiya D";
-    private final String location   = "Bengaluru, India 🇮🇳";
+    private final String location   = "Bengaluru, India";
     private final String degree     = "M.Sc Computer Science (CGPA: 8.95/10)";
     private final String role       = "Java Full Stack Developer";
 
@@ -33,17 +33,17 @@ public class MariaEsonsiya {
 
     private final String[] currentlyLearning = {
         "Advanced System Design (HLD/LLD)",
-        "Keycloak & OAuth 2.0",
-        "Google Gemini API & GenAI Integration",
+        "Keycloak + OAuth 2.0",
+        "Google Gemini API + GenAI Integration",
         "Spring Cloud (Eureka, Config Server, Gateway)"
     };
 
     private final String funFact =
-        "I used Claude AI to scaffold APIs faster 🤖 " +
-        "— then manually optimized every line 💪";
+        "I used Claude AI to scaffold APIs faster" +
+        " then manually optimized every line";
 
     public String motto() {
-        return "Build secure. Build scalable. Build for impact. 🚀";
+        return "Build secure. Build scalable. Build for impact.";
     }
 }
 ```
@@ -141,36 +141,42 @@ public class MariaEsonsiya {
 
 ## 💼 Work Experience
 
-<details>
-<summary>🏢 <strong>eMudhra Limited</strong> — Software Developer | Sept 2024 – Jan 2026 | Bengaluru, India</summary>
+**🏢 eMudhra Limited — Software Developer | Sept 2024 – Jan 2026 | Bengaluru, India**
 
-> **Instigo – Digital Onboarding / KycSystem (SEBI-Compliant eKYC Platform)**
+> Instigo – Digital Onboarding / KycSystem (SEBI-Compliant eKYC Platform)
 
-> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![AES](https://img.shields.io/badge/AES_Encryption-BF91F3?style=flat-square) ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) ![Microservices](https://img.shields.io/badge/Microservices-70A5FD?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Microservices](https://img.shields.io/badge/Microservices-70A5FD?style=flat-square)
 
 - 🚀 Architected **Spring Boot microservices** that reduced onboarding processing time by **~40%**, enabling SEBI-compliant demat/trading account opening via NDML
-- 🔐 Integrated real-time identity verification APIs (Aadhaar, PAN, DigiLocker, Veridas, eID), automating KYC for **10,000+ users** and reducing unauthorized access attempts by **95%**
-- ⚡ Designed REST APIs handling **500+ concurrent** high-volume identity verification requests with **sub-second response times**
-- 🛡️ Implemented AES encryption and cryptographic hashing for all sensitive identity data, achieving **zero data breach incidents** and **zero** authentication-related security incidents post-JWT rollout
-- 📊 Optimized PostgreSQL queries and indexing strategies, improving query execution speed by **35%**
-- 🤖 Leveraged Claude AI (Claude Code) for rapid API scaffolding and code generation, with full manual validation ensuring production-ready quality
+- 🔐 Integrated real-time identity verification APIs (Aadhaar, PAN, DigiLocker, Veridas, eID), automating KYC for **10,000+ users** and reducing unauthorized access by **95%**
+- ⚡ Designed REST APIs handling **500+ concurrent** identity verification requests with **sub-second response times**
+- 🛡️ Implemented AES encryption and cryptographic hashing, achieving **zero data breach incidents** and **zero** auth-related security incidents post-JWT rollout
+- 📊 Optimized PostgreSQL queries and indexing, improving query execution speed by **35%**
+- 🤖 Leveraged Claude AI for rapid API scaffolding with full manual validation ensuring production-ready quality
 
-</details>
+---
 
-<details>
-<summary>🛒 <strong>Java Full Stack Developer</strong> — E-Commerce Platform | Bengaluru, India</summary>
+**🛒 Java Full Stack Developer — E-Commerce Platform | Bengaluru, India**
 
-> **Scalable global e-commerce platform for high-performance apparel products**
+> Scalable global e-commerce platform for high-performance apparel products
 
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🔧 Built scalable backend services using Java, Spring Boot, and Hibernate supporting a **3× increase** in concurrent user sessions
-- ⚡ Delivered REST APIs processing **1,000+ API calls per minute**, with frontend integration cutting page load speed by **25%**
-- 🗄️ Structured database schemas and refined SQL queries, reducing average query execution time by **40%**
-- 🚀 Automated CI/CD pipelines with Jenkins and Maven, cutting manual deployment effort by **80%** and deployment errors by **70%**
-- 🤝 Collaborated in Agile sprints with UI/UX, QA, and product teams, consistently delivering features **15% ahead of schedule**
-
-</details>
+- 🔧 Built scalable backend services supporting a **3× increase** in concurrent user sessions
+- ⚡ Delivered REST APIs processing **1,000+ API calls per minute**, improving page load speed by **25%**
+- 🗄️ Refined SQL queries and schemas, reducing average query execution time by **40%**
+- 🚀 Automated CI/CD pipelines with Jenkins and Maven, cutting deployment effort by **80%** and errors by **70%**
+- 🤝 Collaborated in Agile sprints delivering features **15% ahead of schedule**
 
 ---
 
@@ -180,7 +186,7 @@ public class MariaEsonsiya {
 
 | 🔗 Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
-| **🏋️ AI-Powered Fitness Microservices Platform** *(March 2026 – Present)* | Spring Boot · ReactJS · Spring Cloud · Keycloak · RabbitMQ · PostgreSQL · MongoDB · Google Gemini API | Scalable microservices platform with AI-based workout recommendations, real-time fitness goal tracking, and secure OAuth via Keycloak. Leverages Gemini API for personalized coaching insights. |
+| **🏋️ AI-Powered Fitness Microservices Platform** *(March 2026 – Present)* | Spring Boot · ReactJS · Spring Cloud · Keycloak · RabbitMQ · PostgreSQL · MongoDB · Google Gemini API | Scalable microservices platform with AI-based workout recommendations, real-time fitness goal tracking, and secure OAuth via Keycloak |
 
 </div>
 
@@ -192,12 +198,12 @@ public class MariaEsonsiya {
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🔐 | **Zero Security Incidents** | Achieved zero data breach and zero auth incidents after implementing AES + JWT at eMudhra |
-| 🚀 | **10,000+ Users Onboarded** | Automated eKYC for 10,000+ users via real-time identity verification integration |
-| ⚡ | **500+ Concurrent Requests** | Engineered REST APIs handling 500+ simultaneous identity verification requests at sub-second latency |
+| 🔐 | **Zero Security Incidents** | Zero data breach and zero auth incidents after implementing AES + JWT at eMudhra |
+| 🚀 | **10,000+ Users Onboarded** | Automated eKYC for 10,000+ users via real-time identity verification |
+| ⚡ | **500+ Concurrent Requests** | REST APIs handling 500+ simultaneous requests at sub-second latency |
 | 📈 | **40% Faster Onboarding** | Microservices redesign cut onboarding processing time by ~40% |
 | 🏎️ | **35% Query Speed Boost** | PostgreSQL optimization improved query execution by 35% |
-| 🤖 | **AI-Assisted Development** | Leveraged Claude Code for API scaffolding, accelerating delivery with production-ready quality |
+| 🤖 | **AI-Assisted Development** | Leveraged Claude Code for API scaffolding with production-ready quality |
 | 🎓 | **CGPA 8.95/10** | Graduated M.Sc Computer Science with distinction from Bharathidasan University |
 
 </div>
@@ -221,18 +227,18 @@ public class MariaEsonsiya {
 ## 🌱 Currently Learning
 
 ```
-🧱 System Design    → Advanced HLD · LLD · REST API Design Patterns · 3-Tier Architecture
-☁️  Cloud & DevOps  → AWS Lambda · EC2 · Azure DevOps · Docker Orchestration
-🔐 Security         → Keycloak · OAuth 2.0 · OpenID Connect · Zero-Trust Architecture
-🤖 GenAI            → Google Gemini API · Claude API · AI-assisted code workflows
-🌐 Spring Cloud     → Eureka · Config Server · Gateway · Circuit Breakers
+  System Design   --> Advanced HLD, LLD, REST API Design Patterns
+  Cloud & DevOps  --> AWS Lambda, EC2, Azure DevOps, Docker Orchestration
+  Security        --> Keycloak, OAuth 2.0, OpenID Connect, Zero-Trust
+  GenAI           --> Google Gemini API, Claude API, AI-assisted workflows
+  Spring Cloud    --> Eureka, Config Server, Gateway, Circuit Breakers
 ```
 
 ---
 
 <div align="center">
 
-*✨ "Build secure. Build scalable. Build for impact." ✨*
+*"Build secure. Build scalable. Build for impact."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
