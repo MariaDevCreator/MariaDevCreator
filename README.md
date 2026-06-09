@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi%2C+I%27m+Maria+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+ReactJS+%7C+Microservices;Building+Secure+%26+Scalable+FinTech+Apps" alt="Typing SVG"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MariaDevCreator&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/MariaDevCreator)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mariaesonsiya--d-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaesonsiya-d-a652753b0/)
-[![Email](https://img.shields.io/badge/Gmail-mariagomaz06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mariagomaz06@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bengaluru)
+[![Profile Views](https://komarev.com/ghpvc/?username=MariaDevCreator&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views)](https://github.com/MariaDevCreator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mariaesonsiya--d-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/mariaesonsiya-d-a652753b0/)
+[![Email](https://img.shields.io/badge/Gmail-mariagomaz06%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:mariagomaz06@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-38BDAE?style=flat-square&amp;logo=googlemaps&amp;logoColor=white)](https://maps.google.com/?q=Bengaluru)
 
 </div>
 
@@ -102,8 +102,8 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaDevCreator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDevCreator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaDevCreator&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDevCreator&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10)
 
 </div>
 
@@ -113,7 +113,7 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MariaDevCreator&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=MariaDevCreator&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10)
 
 </div>
 
@@ -123,7 +123,7 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-![Maria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaDevCreator&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Maria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaDevCreator&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true)
 
 </div>
 
@@ -133,7 +133,7 @@ public class MariaEsonsiya {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MariaDevCreator&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=MariaDevCreator&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4)
 
 </div>
 
